@@ -37,10 +37,10 @@ perangkat lain sering kosong. IP, nama, latensi, dan port tetap berfungsi normal
 
 ## Unduh & pasang
 
-Ambil file terbaru dari halaman [Releases](../../releases) atau langsung dari folder ini:
+Unduh dari halaman [Releases](../../releases/latest):
 
-- **Android 7.0+** → [`NetScan-Android.apk`](NetScan-Android.apk)
-- **Windows 10/11** → [`NetScan-Windows.exe`](NetScan-Windows.exe)
+- **Android 7.0+** → [`NetScan-Android.apk`](../../releases/latest/download/NetScan-Android.apk)
+- **Windows 10/11** → [`NetScan-Windows.exe`](../../releases/latest/download/NetScan-Windows.exe)
 
 > `.apk` hanya untuk Android, `.exe` hanya untuk Windows. Keduanya aplikasi terpisah.
 

@@ -17,3 +17,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Rilis biner (dikirim via GitHub Releases)
+*.apk
+*.exe
