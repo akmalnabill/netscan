@@ -1,0 +1,36 @@
+NetScan v1.0 — Pemindai Perangkat Jaringan Lokal
+================================================
+
+Isi folder ini:
+
+1. NetScan-Android.apk   -> untuk HP/tablet Android (7.0 ke atas)
+2. NetScan-Windows.exe   -> untuk laptop/PC Windows 10/11
+3. README-Android.md     -> cara pakai di HP
+4. README-Windows.md     -> cara pakai di PC
+5. screenshot-windows.png-> tampilan aplikasi versi Windows
+
+CARA PASANG DI HP
+-----------------
+1. Kirim NetScan-Android.apk ke HP (WhatsApp, Google Drive, kabel USB, dll).
+2. Buka file tersebut, lalu izinkan "Instal dari sumber tidak dikenal" bila diminta.
+3. Sambungkan HP ke Wi-Fi yang sama dengan perangkat yang ingin dipindai.
+4. Buka aplikasi NetScan; pemindaian berjalan otomatis.
+
+CARA PAKAI DI PC
+----------------
+1. Salin NetScan-Windows.exe ke PC (boleh di mana saja, tidak perlu installer).
+2. Klik dua kali untuk menjalankan. Bila muncul peringatan SmartScreen,
+   pilih "More info" -> "Run anyway" (aplikasi tidak ditandatangani digital).
+3. Klik tombol Pindai (atau tekan F5).
+
+CATATAN PENTING
+---------------
+- Ini dua aplikasi berbeda: .apk hanya untuk Android, .exe hanya untuk Windows.
+  File .exe TIDAK bisa dipasang di HP, dan .apk tidak bisa dijalankan di PC.
+- Di Android 10 ke atas, MAC address perangkat lain umumnya tidak dapat dibaca
+  oleh aplikasi biasa (batasan sistem, tanpa root). Aplikasi tetap menampilkan
+  IP, nama perangkat, latensi, dan port terbuka.
+- Perangkat yang memblokir ping tetap terdeteksi dan ditandai "Tanpa ping".
+- Aplikasi hanya membaca jaringan lokal; tidak mengirim data ke internet.
+
+Dibuat: November 2026
