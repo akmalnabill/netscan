@@ -1,4 +1,4 @@
-# NetScan v1.0
+# NetScan 
 
 **Pemindai perangkat jaringan lokal — lihat siapa saja yang terhubung ke Wi-Fi/LAN kamu.**
 
